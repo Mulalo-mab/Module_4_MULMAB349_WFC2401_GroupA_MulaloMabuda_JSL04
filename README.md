@@ -1,1 +1,4 @@
-# Module_4_MULMAB349_WFC2401_GroupA_MulaloMabuda_JSL04
+Mulalo Mabuda
+JSL04 Project
+I used Scrimba it was very helpful because it explains in a way that I end up understanding ternary.
+I wrote the using ternary which is shorter and simple compared to if-else statements.
